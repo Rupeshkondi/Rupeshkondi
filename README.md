@@ -28,12 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Rupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rupeshkondi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshkondi&layout=compact&theme=radical)
-
----
 
 ## 📈 Goals for 2025
 
