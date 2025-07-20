@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Rupesh Kondi
 
-<!--
-**Rupeshkondi/Rupeshkondi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A passionate Electronics and Communication Engineering (ECE) graduate  
+💻 Exploring the world of Web Development, AI, and Cloud Technologies  
+🌱 Currently learning Full-Stack Development and preparing for RHCSA & CCNA  
+🚀 Actively building real-world web apps and automation tools  
+📫 How to reach me: **rupeshkondi@gmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies I Work With
+
+- **Frontend**: HTML, CSS, Tailwind CSS, JavaScript  
+- **Tools**: Git, GitHub, VS Code  
+- **OS**: Linux (Red Hat), Windows  
+- **Learning**: Python, Node.js, React, Docker, Networking (CCNA), Linux Administration
+
+---
+
+## 🔥 Projects
+
+| Project                     | Description                                                  | Link |
+|-----------------------------|--------------------------------------------------------------|------|
+| 🌡️ Temperature Converter    | Convert between Celsius, Fahrenheit, and Kelvin             | [Live](https://rupeshkondi.github.io/Temperature-converter) |
+| 📅 Age Calculator           | Calculate your age in years, months, and days               | [GitHub](https://github.com/rupeshkondi/Age-calculator) |
+| ☁️ Weather App              | Fetch live weather using an API, styled with Tailwind CSS   | [GitHub](https://github.com/rupeshkondi/Advanced-weather-app) |
+| 📋 To-Do Web App            | Full-featured productivity app with clean UI                | [In Progress] |
+| 💡 More Utility Tools       | Password generator, BMI Calculator, QR Code generator       | [GitHub](https://github.com/rupeshkondi) |
+
+---
+
+## 📊 GitHub Stats
+
+![Rupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rupeshkondi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshkondi&layout=compact&theme=radical)
+
+---
+
+## 📈 Goals for 2025
+
+- 🧠 Master Linux (RHCSA Certified by  2025)
+- 🌐 Publish 10+ live full-stack apps
+- 💼 Land a role as an Associate Software Engineer or Network Engineer
+- 🔄 Contribute to Open Source Projects
+
+---
+
+> _“Consistency beats talent every time.”_
