@@ -23,7 +23,7 @@
 |-----------------------------|--------------------------------------------------------------|------|
 | 🌡️ Temperature Converter    | Convert between Celsius, Fahrenheit, and Kelvin             | [Live](https://rupeshkondi.github.io/Temperature-converter) |
 | 📅 Age Calculator           | Calculate your age in years, months, and days               | [GitHub](https://github.com/Rupeshkondi/Age-calculator) |
-| ☁️ Weather App              | Fetch live weather using an API, styled with Tailwind CSS   | [GitHub](https://github.com/Rupeshkondi/Advanced-weather-app) |
+| ☁️ Weather App              | Fetch live weather using an API, styled with Tailwind CSS   | [GitHub](https://github.com/Rupeshkondi/advanced-weather-app) |
 | 📋 To-Do Web App            | Full-featured productivity app with clean UI                | [In Progress] |
 | 💡 More Utility Tools       | Password generator, BMI Calculator, QR Code generator       | [GitHub](https://github.com/rupeshkondi) |
 
